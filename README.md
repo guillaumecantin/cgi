@@ -1,2 +1,1 @@
-# cgi
-Minimal cgi script
+Minimal cgi script with python.
