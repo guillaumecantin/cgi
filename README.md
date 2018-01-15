@@ -1,0 +1,2 @@
+# cgi
+Minimal cgi script
